@@ -8,11 +8,11 @@ Welcome to the Memory Card repository! This project showcases a memory card game
 This repository contains a memory card game or tool, designed to engage users with a matching or memory-based challenge. The project may involve card flipping, scoring, or other interactive elements, serving as a learning or entertainment tool. It is intended to be modular and adaptable for further development.
 
 ## Features ✨
-- 🎲 Grid-based card matching gameplay
-- ⏱️ Timer to track completion time
-- 📊 Score system based on moves taken
-- 🎨 Simple and clean UI with Pygame
-- 🔄 Reset game functionality
+🎲 Grid-based card matching gameplay
+⏱️ Timer to track completion time
+📊 Score system based on moves taken
+🎨 Simple and clean UI with Pygame
+🔄 Reset game functionality
 
 ## Technologies Used
 
@@ -46,23 +46,6 @@ Clone the repository:
 
 git clone https://github.com/Ahmedmanso4r/Memory_card.git
 cd Memory_card
-
-
-
-Install dependencies (if applicable):
-
-
-
-
-
-If the project uses a package manager (e.g., npm or yarn), run:
-
-npm install
-
-or
-
-yarn install
-
 
 
 Run the project:
