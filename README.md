@@ -7,12 +7,29 @@ Welcome to the Memory Card repository! This project showcases a memory card game
 
 This repository contains a memory card game or tool, designed to engage users with a matching or memory-based challenge. The project may involve card flipping, scoring, or other interactive elements, serving as a learning or entertainment tool. It is intended to be modular and adaptable for further development.
 
-## Features ✨
-🎲 Grid-based card matching gameplay
-⏱️ Timer to track completion time
-📊 Score system based on moves taken
-🎨 Simple and clean UI with Pygame
-🔄 Reset game functionality
+## Features
+
+
+
+
+
+Interactive memory card game or utility
+
+
+
+Card matching or selection mechanics
+
+
+
+Scoring or timer functionality (if applicable)
+
+
+
+Responsive design for various devices
+
+
+
+Simple and engaging user interface
 
 ## Technologies Used
 
